@@ -1,4 +1,4 @@
-# Elky The Moose
+# Algy The Moose
 ### Game created by Brusig and DominikVu as a first project at Nod Coding Bootcamp Stockholm #2022
 
 
